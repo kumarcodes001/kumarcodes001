@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kumarcodes001
 - 👀 I’m interested in data science, Data Analytics and Inoovative fields
+- 👀 I'm also good in react-native and webpage developement.
 - 🌱 I’m currently learning pandas and tenserflow
 - 💞️ I’m looking to collaborate on AI team in a company
-- 📫 How to reach me ...
+- 📫 How to reach me ... mail @ arunkumarpalani001@gmail.com
 
 <!---
 kumarcodes001/kumarcodes001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
