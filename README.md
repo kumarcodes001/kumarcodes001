@@ -3,7 +3,7 @@
 - 👀 I'm also good in react-native and webpage developement.
 - 🌱 I’m currently learning pandas and tenserflow
 - 💞️ I’m looking to collaborate on AI team in a company
-- 📫 How to reach me ... mail @ arunkumarpalani001@gmail.com
+- 📫 How to reach me ... mail @ arunquarantine2020@gmail.com
 
 <!---
 kumarcodes001/kumarcodes001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
