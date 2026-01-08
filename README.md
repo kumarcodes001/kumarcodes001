@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kumarcodes001
+- 👩🏻‍💻 I'm Working as SDET.
 - 👀 I’m interested in data science, Data Analytics and Inoovative fields
 - 👀 I'm also good in react-native and webpage developement.
 - 🌱 I’m currently learning pandas and tenserflow
-- 💞️ I’m looking to collaborate on AI team in a company
+- 💞️ I’m looking to collaborate on AI related team in a company
 - 📫 How to reach me ... mail @ arunquarantine2020@gmail.com
 
 <!---
